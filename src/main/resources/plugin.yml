@@ -1,0 +1,4 @@
+name: GeyserBiomeView
+version: '${project.version}'
+main: dev.mcloudtw.gbv.Main
+api-version: '1.20'
